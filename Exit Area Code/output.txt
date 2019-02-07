@@ -1,0 +1,2 @@
+Max impulse (1.673046e+05 lbf-s) occurs at exit area 5.271119e+01 (exit diameter 8.192 in) in2
+Max impulse expansion ratio is 9.940
